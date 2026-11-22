@@ -1,1 +1,1 @@
-document.addEventListener('click', function() { alert("사랑해"); });
+document.addEventListener('click', function() { alert("사랑해♥"); });
